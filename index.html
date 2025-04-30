@@ -183,53 +183,73 @@
           <p class="ae-2"><span class="opacity-8">Design is a form of com­pet­it­ive advant­age. People tend to think of design as good art, good visual lan­guage, which it abso­lutely has to be.</span></p>
         </div>
         <div class="fix-12-12">
-          <ul class="grid grid-75 masonry fixedSpaces ae-3 controller popupTrigger" data-popup-id="75-1" data-slider-id="75-1">
-           
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-3 fadeIn">
-              <img src="assets/img/pods.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-2 fadeIn">
-              <img src="assets/img/burger.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-7 fadeIn">
-              <img src="assets/img/22.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-9 fadeIn">
-              <img src="assets/img/13.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-5 fadeIn">
-              <img src="assets/img/12.png" width="300" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-4 fadeIn">
-              <img src="assets/img/21.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-6 fadeIn">
-              <img src="assets/img/16.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-3 fadeIn">
-              <img src="assets/img/17.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-2 fadeIn">
-              <img src="assets/img/2.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-7 fadeIn">
-              <img src="assets/img/5.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-9 fadeIn">
-              <img src="assets/img/vitamin.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
-            <li class="col-3-12 col-tablet-1-3 col-phablet-1-2 col-phone-1-1 ae-9 fadeIn">
-              <img src="assets/img/Creative.png" class="wide rounded margin-bottom-1" alt="Image"/>
-            </li>
+          <ul class="clean-image-grid">
+            <li><img src="assets/img/pods.png" alt="Image" /></li>
+            <li><img src="assets/img/burger.png" alt="Image" /></li>
+            <li><img src="assets/img/22.png" alt="Image" /></li>
+            <li><img src="assets/img/13.png" alt="Image" /></li>
+            <li><img src="assets/img/12.png" alt="Image" /></li>
+            <li><img src="assets/img/21.png" alt="Image" /></li>
+            <li><img src="assets/img/16.png" alt="Image" /></li>
+            <li><img src="assets/img/17.png" alt="Image" /></li>
+            <li><img src="assets/img/2.png" alt="Image" /></li>
+            <li><img src="assets/img/5.png" alt="Image" /></li>
+            <li><img src="assets/img/vitamin.png" alt="Image" /></li>
+            <li><img src="assets/img/Creative.png" alt="Image" /></li>
           </ul>
         </div>
+        
 
       </div>
     </div>
   </div>
   <div class="background" style="background-image:url(assets/img/background/img-75.jpg)"></div>
 </section>
-
+<style>
+  .clean-image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+  }
+  
+  .clean-image-grid li {
+    flex: 1 1 calc(25% - 16px); /* 4 items per row on desktop */
+    max-width: calc(25% - 16px);
+  }
+  
+  .clean-image-grid img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+  }
+  
+  @media (max-width: 1024px) {
+    .clean-image-grid li {
+      flex: 1 1 calc(33.333% - 16px);
+      max-width: calc(33.333% - 16px);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .clean-image-grid li {
+      flex: 1 1 calc(50% - 16px);
+      max-width: calc(50% - 16px);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .clean-image-grid li {
+      flex: 1 1 100%;
+      max-width: 100%;
+    }
+  }
+  </style>
+  
 <!-- Popup Gallery -->
 <div class="popup animated" data-popup-id="75-1">
   <div class="close"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close"></use></svg></div>
