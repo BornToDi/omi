@@ -182,29 +182,31 @@
           <h1 class="ae-1">Smoke & Mirrors</h1>
           <p class="ae-2"><span class="opacity-8">Design is a form of com­pet­it­ive advant­age. People tend to think of design as good art, good visual lan­guage, which it abso­lutely has to be.</span></p>
         </div>
+
         <div class="fix-12-12">
           <ul class="clean-image-grid">
-            <li><img src="assets/img/pods.png" alt="Image" /></li>
-            <li><img src="assets/img/burger.png" alt="Image" /></li>
-            <li><img src="assets/img/22.png" alt="Image" /></li>
-            <li><img src="assets/img/13.png" alt="Image" /></li>
-            <li><img src="assets/img/12.png" alt="Image" /></li>
-            <li><img src="assets/img/21.png" alt="Image" /></li>
-            <li><img src="assets/img/16.png" alt="Image" /></li>
-            <li><img src="assets/img/17.png" alt="Image" /></li>
-            <li><img src="assets/img/2.png" alt="Image" /></li>
-            <li><img src="assets/img/5.png" alt="Image" /></li>
-            <li><img src="assets/img/vitamin.png" alt="Image" /></li>
-            <li><img src="assets/img/Creative.png" alt="Image" /></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/pods.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/burger.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/22.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/13.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/12.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/21.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/16.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/17.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/2.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/5.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/vitamin.png" alt="Image" /></a></li>
+            <li><a href="#" class="popupTrigger" data-popup-id="75-1" data-slider-id="75-1"><img src="assets/img/Creative.png" alt="Image" /></a></li>
           </ul>
         </div>
-        
 
       </div>
     </div>
   </div>
   <div class="background" style="background-image:url(assets/img/background/img-75.jpg)"></div>
 </section>
+
+<!-- Grid CSS -->
 <style>
   .clean-image-grid {
     display: flex;
@@ -215,41 +217,56 @@
     margin: 0;
     justify-content: center;
   }
-  
+
   .clean-image-grid li {
-    flex: 1 1 calc(25% - 16px); /* 4 items per row on desktop */
+    flex: 1 1 calc(25% - 16px);
     max-width: calc(25% - 16px);
   }
-  
+
   .clean-image-grid img {
     width: 100%;
     height: auto;
     border-radius: 10px;
     display: block;
+    cursor: pointer;
   }
-  
+
   @media (max-width: 1024px) {
     .clean-image-grid li {
       flex: 1 1 calc(33.333% - 16px);
       max-width: calc(33.333% - 16px);
     }
   }
-  
+
   @media (max-width: 768px) {
     .clean-image-grid li {
       flex: 1 1 calc(50% - 16px);
       max-width: calc(50% - 16px);
     }
   }
-  
+
   @media (max-width: 480px) {
     .clean-image-grid li {
       flex: 1 1 100%;
       max-width: 100%;
     }
   }
-  </style>
-  
+  .popup .slider img {
+    height: 400px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 480px) {
+    .popup .slider img {
+      height: 250px;
+    }
+  }
+</style>
+
 <!-- Popup Gallery -->
 <div class="popup animated" data-popup-id="75-1">
   <div class="close"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close"></use></svg></div>
@@ -257,52 +274,25 @@
     <div class="container">
       <div class="wrap spaces">
 
-        <ul class="slider animated ae-1 fromAbove inlineBlock clickable popupContent disableSelect" data-slider-id="75-1" style="display: inline-block;">
-          <li class="selected">
-            <img src="assets/img/pods.png" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/burger.png" width="full" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/22.png" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/13.png" width="502" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/12.png" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/21.png" width="502" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/16.png" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/17.png" width="502" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/2.png" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/5.png" width="502" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/vitamin.png" class="rounded" alt="Image"/>
-          </li>
-          <li>
-            <img src="assets/img/Creative.png" class="rounded" alt="Image"/>
-          </li>
-         
-          
+        <ul class="slider animated ae-1 fromAbove inlineBlock clickable popupContent disableSelect" data-slider-id="75-1">
+          <li class="selected"><img src="assets/img/pods.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/burger.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/22.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/13.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/12.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/21.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/16.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/17.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/2.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/5.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/vitamin.png" class="rounded" alt="Image" /></li>
+          <li><img src="assets/img/Creative.png" class="rounded" alt="Image" /></li>
         </ul>
 
       </div>
     </div>
   </div>
 </div>
-
 
 <!-- Slide 3 (#90) -->
 <section class="slide fade-6 kenBurns">
