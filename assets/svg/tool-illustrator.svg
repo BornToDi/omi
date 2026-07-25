@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">Adobe Illustrator</title>
+  <rect width="600" height="320" rx="28" fill="#2b1200"/>
+  <rect x="185" y="45" width="230" height="230" rx="28" fill="#ff9a00"/>
+  <rect x="198" y="58" width="204" height="204" rx="18" fill="#2b1200"/>
+  <text x="300" y="198" fill="#ff9a00" font-family="Arial, sans-serif" font-size="112" font-weight="700" text-anchor="middle">Ai</text>
+</svg>

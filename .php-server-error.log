@@ -1,0 +1,1414 @@
+[Sun Jul 26 02:38:24 2026] PHP 8.2.12 Development Server (http://127.0.0.1:8000) started
+[Sun Jul 26 02:39:12 2026] 127.0.0.1:61750 Accepted
+[Sun Jul 26 02:39:12 2026] 127.0.0.1:61750 [200]: GET /
+[Sun Jul 26 02:39:12 2026] 127.0.0.1:61750 Closing
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60146 Accepted
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60146 [200]: GET /index.html
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60146 Closing
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60147 Accepted
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60147 [200]: GET /css/custom.css
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60147 Closing
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60148 Accepted
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60148 [200]: GET /js/custom.js
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60148 Closing
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60149 Accepted
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60149 [200]: GET /assets/img/pods.png
+[Sun Jul 26 02:41:26 2026] 127.0.0.1:60149 Closing
+[Sun Jul 26 02:41:28 2026] 127.0.0.1:60152 Accepted
+[Sun Jul 26 02:41:28 2026] 127.0.0.1:60152 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 02:41:28 2026] 127.0.0.1:60152 Closing
+[Sun Jul 26 02:43:50 2026] 127.0.0.1:49549 Accepted
+[Sun Jul 26 02:43:50 2026] 127.0.0.1:49549 [200]: GET /
+[Sun Jul 26 02:43:50 2026] 127.0.0.1:49549 Closing
+[Sun Jul 26 03:15:38 2026] 127.0.0.1:55410 Accepted
+[Sun Jul 26 03:15:38 2026] 127.0.0.1:55410 [200]: GET /
+[Sun Jul 26 03:15:38 2026] 127.0.0.1:55410 Closing
+[Sun Jul 26 03:15:56 2026] 127.0.0.1:54608 Accepted
+[Sun Jul 26 03:15:56 2026] 127.0.0.1:54608 [200]: GET /
+[Sun Jul 26 03:15:56 2026] 127.0.0.1:54608 Closing
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58883 Accepted
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58883 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58883 Closing
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58886 Accepted
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58886 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58886 Closing
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58888 Accepted
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58888 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58888 Closing
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58889 Accepted
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58889 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:17:54 2026] 127.0.0.1:58889 Closing
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63448 Accepted
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63448 [200]: GET /index.html
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63448 Closing
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63449 Accepted
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63449 [200]: GET /css/custom.css
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63449 Closing
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63450 Accepted
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63450 [200]: GET /js/custom.js
+[Sun Jul 26 03:21:13 2026] 127.0.0.1:63450 Closing
+[Sun Jul 26 03:26:04 2026] 127.0.0.1:60236 Accepted
+[Sun Jul 26 03:26:04 2026] 127.0.0.1:60236 [200]: GET /
+[Sun Jul 26 03:26:04 2026] 127.0.0.1:60236 Closing
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:58866 Accepted
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:58866 [200]: GET /
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:58866 Closing
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:57534 Accepted
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:53270 Accepted
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:57534 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:57534 Closing
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:53270 [200]: GET /css/custom.css
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:53270 Closing
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:65427 Accepted
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:57112 Accepted
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:63378 Accepted
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:61560 Accepted
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:65427 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:65427 Closing
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:61560 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:57112 [200]: GET /js/custom.js
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:63378 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:57112 Closing
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:63378 Closing
+[Sun Jul 26 03:26:45 2026] 127.0.0.1:61560 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57422 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57422 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57309 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57309 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57422 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57309 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60927 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60927 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63157 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:62958 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51096 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:55996 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:62958 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63608 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63157 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51096 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:55996 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63608 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60927 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51096 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:65051 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:55996 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:62958 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:65051 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:65051 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63157 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63845 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63845 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60468 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60468 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63845 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60468 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57075 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57075 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58433 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57075 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58433 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63486 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58433 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63486 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63486 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63608 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58441 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58441 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58441 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:53231 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:53231 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51137 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:50672 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51137 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63886 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:50672 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:53231 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51901 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63886 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51901 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51137 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:50672 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:63886 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60574 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:51901 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:59961 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58753 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:55994 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60574 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:60574 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:59961 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:55994 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57353 Accepted
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58753 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:57353 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:58753 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:59961 Closing
+[Sun Jul 26 03:26:46 2026] 127.0.0.1:55994 Closing
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:64521 Accepted
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:64521 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:64521 Closing
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:59602 Accepted
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:53648 Accepted
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:59602 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:53648 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:53648 Closing
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:50567 Accepted
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:50567 [404]: GET /favicon.ico - No such file or directory
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:50567 Closing
+[Sun Jul 26 03:26:47 2026] 127.0.0.1:59602 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:62103 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:56237 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:62103 [200]: GET /
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:62103 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:56237 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:56237 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:54216 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:57830 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:65235 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:54216 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:52545 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:56466 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:53582 Accepted
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:52545 [200]: GET /css/custom.css
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:65235 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:52545 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:57830 [200]: GET /js/custom.js
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:56466 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:53582 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:54216 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:65235 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:57830 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:56466 Closing
+[Sun Jul 26 03:26:59 2026] 127.0.0.1:53582 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52962 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52962 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:49295 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:49295 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52962 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62394 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62394 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:49295 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:56284 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54231 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:56223 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:56284 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54231 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54581 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:56223 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62199 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54581 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62199 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52336 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62394 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52336 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62199 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52336 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61885 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:56223 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61885 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62130 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:62130 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54581 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:63702 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:63702 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:50266 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61885 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54776 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:50266 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54776 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:63702 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61705 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:54776 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:53746 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61705 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:53746 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:53746 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:50266 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:53615 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61193 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:53615 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61193 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61705 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:53615 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:61193 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:58428 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:60087 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:58428 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:51363 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:58428 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:60087 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:60087 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:49782 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:51363 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:51363 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:57034 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:49782 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:49782 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:57034 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:57667 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:57034 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:51732 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:57667 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52670 Accepted
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:51732 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52670 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:57667 Closing
+[Sun Jul 26 03:27:00 2026] 127.0.0.1:52670 Closing
+[Sun Jul 26 03:27:01 2026] 127.0.0.1:56284 Closing
+[Sun Jul 26 03:27:01 2026] 127.0.0.1:62130 Closing
+[Sun Jul 26 03:27:01 2026] 127.0.0.1:54231 Closing
+[Sun Jul 26 03:27:01 2026] 127.0.0.1:52369 Accepted
+[Sun Jul 26 03:27:01 2026] 127.0.0.1:52369 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:27:01 2026] 127.0.0.1:50052 Accepted
+[Sun Jul 26 03:27:01 2026] 127.0.0.1:50052 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:27:02 2026] 127.0.0.1:50052 Closing
+[Sun Jul 26 03:27:02 2026] 127.0.0.1:57353 Closing
+[Sun Jul 26 03:27:02 2026] 127.0.0.1:65081 Accepted
+[Sun Jul 26 03:27:02 2026] 127.0.0.1:65081 [404]: GET /favicon.ico - No such file or directory
+[Sun Jul 26 03:27:02 2026] 127.0.0.1:65081 Closing
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:58374 Accepted
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:52552 Accepted
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:58374 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:52552 [200]: GET /css/custom.css
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:58374 Closing
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:52552 Closing
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:51111 Accepted
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:51111 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:27:13 2026] 127.0.0.1:51111 Closing
+[Sun Jul 26 03:27:17 2026] 127.0.0.1:51732 Closing
+[Sun Jul 26 03:27:17 2026] 127.0.0.1:52369 Closing
+[Sun Jul 26 03:28:48 2026] 127.0.0.1:49438 Accepted
+[Sun Jul 26 03:28:48 2026] 127.0.0.1:49438 [200]: GET /css/custom.css
+[Sun Jul 26 03:28:48 2026] 127.0.0.1:49438 Closing
+[Sun Jul 26 03:29:12 2026] 127.0.0.1:59085 Accepted
+[Sun Jul 26 03:29:12 2026] 127.0.0.1:58983 Accepted
+[Sun Jul 26 03:29:12 2026] 127.0.0.1:59085 [200]: GET /
+[Sun Jul 26 03:29:12 2026] 127.0.0.1:59085 Closing
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:60225 Accepted
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:58983 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:60225 [200]: GET /css/custom.css
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:58983 Closing
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:60225 Closing
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:51762 Accepted
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:54052 Accepted
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:61515 Accepted
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:51762 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:65160 Accepted
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:51762 Closing
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:65160 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:65160 Closing
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:62964 Accepted
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:54052 [200]: GET /js/custom.js
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:61515 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:62964 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:54052 Closing
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:62964 Closing
+[Sun Jul 26 03:29:13 2026] 127.0.0.1:61515 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:59392 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:59392 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61493 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:59392 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61493 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61493 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60535 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60535 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60535 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:51868 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:57647 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:49165 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:51868 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:64710 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56101 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50519 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:57647 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:49165 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:64710 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50519 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56101 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:49165 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60666 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:64710 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60666 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:51868 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50991 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50519 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:49230 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50991 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:57647 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:49230 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56903 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56903 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:62461 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:62461 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:49230 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:58086 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:58086 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:58086 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:62461 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:57455 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61206 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61206 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56903 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:57455 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61206 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56101 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:57455 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:54411 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:51124 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:54411 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60796 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:51124 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:54411 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:64373 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60796 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:63402 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:51124 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:64373 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56597 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:60796 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56597 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:63402 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:58352 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:58352 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:63402 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:56597 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61290 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:58352 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50168 Accepted
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:61290 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50168 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:64373 Closing
+[Sun Jul 26 03:29:14 2026] 127.0.0.1:50168 Closing
+[Sun Jul 26 03:29:15 2026] 127.0.0.1:60666 Closing
+[Sun Jul 26 03:29:16 2026] 127.0.0.1:50991 Closing
+[Sun Jul 26 03:29:16 2026] 127.0.0.1:55414 Accepted
+[Sun Jul 26 03:29:16 2026] 127.0.0.1:55414 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:29:16 2026] 127.0.0.1:56268 Accepted
+[Sun Jul 26 03:29:16 2026] 127.0.0.1:56268 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:29:17 2026] 127.0.0.1:56268 Closing
+[Sun Jul 26 03:29:20 2026] 127.0.0.1:54832 Accepted
+[Sun Jul 26 03:29:20 2026] 127.0.0.1:54832 [200]: GET /
+[Sun Jul 26 03:29:20 2026] 127.0.0.1:54832 Closing
+[Sun Jul 26 03:29:20 2026] 127.0.0.1:55414 Closing
+[Sun Jul 26 03:29:20 2026] 127.0.0.1:61290 Closing
+[Sun Jul 26 03:29:20 2026] 127.0.0.1:59034 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51070 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58916 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59034 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59034 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51070 [200]: GET /css/custom.css
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58916 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51706 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51070 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:52031 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58125 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51706 [200]: GET /js/custom.js
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51706 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58125 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:52031 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58916 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:52031 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58125 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58295 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:53700 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58295 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:53700 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58295 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:55171 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64486 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:55171 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64486 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59829 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:57722 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:49957 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59829 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:57722 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:49957 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:52023 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:55171 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:53700 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:54781 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:52023 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:57722 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:54781 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58099 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58099 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64486 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:62406 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:62406 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58099 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59829 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64113 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64113 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:54781 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51590 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51590 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:62406 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:51590 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58270 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58931 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58270 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58931 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58931 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64203 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64203 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64203 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:58270 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:61197 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:61197 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:61197 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:61161 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:61161 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:61161 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:49656 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:50818 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:49656 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:49656 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:50818 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:50818 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59036 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59036 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:50105 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:59036 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:49957 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:55894 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:50105 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:55894 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:65033 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:55894 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:65033 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:50105 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:56411 Accepted
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:65033 Closing
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:56411 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:29:21 2026] 127.0.0.1:64113 Closing
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:59576 Accepted
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:59576 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:59576 Closing
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:52023 Closing
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:52938 Accepted
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:52938 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:63226 Accepted
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:63226 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:29:22 2026] 127.0.0.1:63226 Closing
+[Sun Jul 26 03:29:37 2026] 127.0.0.1:56411 Closing
+[Sun Jul 26 03:29:37 2026] 127.0.0.1:52938 Closing
+[Sun Jul 26 03:30:30 2026] 127.0.0.1:58872 Accepted
+[Sun Jul 26 03:30:30 2026] 127.0.0.1:58872 [200]: GET /css/custom.css
+[Sun Jul 26 03:30:30 2026] 127.0.0.1:58872 Closing
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:52925 Accepted
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:55257 Accepted
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:52925 [200]: GET /
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:52925 Closing
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:55257 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:55257 Closing
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:57880 Accepted
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:49369 Accepted
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:57880 [200]: GET /css/custom.css
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:59923 Accepted
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:57880 Closing
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:53295 Accepted
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:54062 Accepted
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:49369 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:49369 Closing
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:59923 [200]: GET /js/custom.js
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:59923 Closing
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:54062 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:53295 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:53295 Closing
+[Sun Jul 26 03:31:53 2026] 127.0.0.1:54062 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60820 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:61383 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60820 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:61383 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:59655 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60820 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60891 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:51041 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49709 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:59655 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60891 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:51041 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49709 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:57635 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:57635 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49709 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62782 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:59655 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62782 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:63776 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:63776 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:57635 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60891 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:64273 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:61383 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:57704 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:64273 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60183 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:57704 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:51041 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:64342 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60183 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:64273 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:64342 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:53943 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:53943 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:64342 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62723 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62723 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62723 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:57704 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:53943 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:58605 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:58605 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:58605 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:52703 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:52862 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:52703 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49710 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:52862 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:52703 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49710 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:52862 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49710 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60714 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49933 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60714 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60714 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49933 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:63822 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:49933 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:60183 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:63822 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:59322 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56016 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:59322 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56016 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56948 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:63822 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:59322 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56016 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56948 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56744 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56744 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:56744 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62782 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:63776 Closing
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62203 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:62203 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:53252 Accepted
+[Sun Jul 26 03:31:54 2026] 127.0.0.1:53252 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:31:55 2026] 127.0.0.1:53252 Closing
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:51218 Accepted
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:64867 Accepted
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:51218 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:64867 [200]: GET /css/custom.css
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:51218 Closing
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:64867 Closing
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:60113 Accepted
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:60113 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:32:05 2026] 127.0.0.1:60113 Closing
+[Sun Jul 26 03:32:10 2026] 127.0.0.1:62203 Closing
+[Sun Jul 26 03:32:10 2026] 127.0.0.1:56948 Closing
+[Sun Jul 26 03:33:53 2026] 127.0.0.1:63371 Accepted
+[Sun Jul 26 03:33:53 2026] 127.0.0.1:63371 [200]: GET /
+[Sun Jul 26 03:33:53 2026] 127.0.0.1:63371 Closing
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:62436 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:64719 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:62436 [200]: GET /
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:62436 Closing
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:64719 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:64719 Closing
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:62665 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:65422 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:49522 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:50252 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:65422 [200]: GET /css/custom.css
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:65422 Closing
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:56997 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:57218 Accepted
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:50252 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:49522 [200]: GET /js/custom.js
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:56997 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:57218 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:62665 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:50252 Closing
+[Sun Jul 26 03:34:40 2026] 127.0.0.1:49522 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:56997 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:62665 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:57218 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51120 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51120 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:52784 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51120 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:52784 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:56091 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:52784 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:56091 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:56091 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51853 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:57818 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:54236 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51853 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:64489 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:60378 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51080 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:57818 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:54236 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:60378 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51080 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:64489 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51853 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51227 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51227 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:54236 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55522 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55522 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:64489 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:56018 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:56018 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51080 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63335 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63335 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:57818 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55522 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55220 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58731 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58731 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55220 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51227 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63320 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55220 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63320 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:49450 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:49450 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63320 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55384 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55384 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58731 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:60378 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:49450 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55384 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58204 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58204 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51521 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58204 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51521 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:51521 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58693 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58693 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:57639 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63883 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:58693 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:57639 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63883 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:54196 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:63883 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55384 Accepted
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:54196 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55384 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:54196 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:55384 Closing
+[Sun Jul 26 03:34:41 2026] 127.0.0.1:56018 Closing
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:53351 Accepted
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:53351 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:53351 Closing
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:63335 Closing
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:62178 Accepted
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:62178 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:63656 Accepted
+[Sun Jul 26 03:34:42 2026] 127.0.0.1:63656 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:34:43 2026] 127.0.0.1:63656 Closing
+[Sun Jul 26 03:34:43 2026] 127.0.0.1:62178 Closing
+[Sun Jul 26 03:34:57 2026] 127.0.0.1:57639 Closing
+[Sun Jul 26 03:35:22 2026] 127.0.0.1:59114 Accepted
+[Sun Jul 26 03:35:22 2026] 127.0.0.1:59114 [200]: GET /css/custom.css
+[Sun Jul 26 03:35:22 2026] 127.0.0.1:59114 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49422 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:50851 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49422 [200]: GET /
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49422 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:50851 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:50851 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:55202 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:55202 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56312 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:58552 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:57901 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:62534 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49564 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56312 [200]: GET /css/custom.css
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:58552 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:55202 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49564 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56312 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:62534 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:57901 [200]: GET /js/custom.js
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49564 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:58552 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:57901 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:62534 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52380 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:59354 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52380 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52380 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:59354 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:59354 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52722 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52722 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52722 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:53299 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:53299 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:53299 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52151 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:59106 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52151 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:54139 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56349 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52556 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:59106 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56586 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:54139 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56349 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52556 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56586 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:60740 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:59106 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:60740 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:61346 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52151 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:54139 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:61346 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49973 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:56586 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:52556 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49973 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:53250 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:51786 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:61507 Accepted
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:53250 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:51786 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:49973 Closing
+[Sun Jul 26 03:36:17 2026] 127.0.0.1:61507 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:61507 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:53250 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:53919 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:59466 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:59466 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:53919 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56349 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:51786 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:59466 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:58345 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:50003 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:53919 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:50003 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56256 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:58345 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:50003 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56256 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:58345 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:55396 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56256 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:61979 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:55396 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56802 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:55396 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:61979 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:62566 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56802 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56419 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:62566 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56419 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56802 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:62566 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:56419 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:60740 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:61346 Closing
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:49249 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:49249 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:63116 Accepted
+[Sun Jul 26 03:36:18 2026] 127.0.0.1:63116 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:36:19 2026] 127.0.0.1:63116 Closing
+[Sun Jul 26 03:36:19 2026] 127.0.0.1:49249 Closing
+[Sun Jul 26 03:36:34 2026] 127.0.0.1:61979 Closing
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:61923 Accepted
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:60264 Accepted
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:61923 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:60264 [200]: GET /css/custom.css
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:61923 Closing
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:60264 Closing
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:49798 Accepted
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:49798 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:36:39 2026] 127.0.0.1:49798 Closing
+[Sun Jul 26 03:37:18 2026] 127.0.0.1:59864 Accepted
+[Sun Jul 26 03:37:18 2026] 127.0.0.1:59864 [200]: GET /css/custom.css
+[Sun Jul 26 03:37:18 2026] 127.0.0.1:59864 Closing
+[Sun Jul 26 03:38:09 2026] 127.0.0.1:57685 Accepted
+[Sun Jul 26 03:38:09 2026] 127.0.0.1:61243 Accepted
+[Sun Jul 26 03:38:09 2026] 127.0.0.1:57685 [200]: GET /
+[Sun Jul 26 03:38:09 2026] 127.0.0.1:57685 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61243 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61243 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:49582 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63818 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:53099 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63317 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:57415 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:49582 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:49582 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63818 [200]: GET /css/custom.css
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63818 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:53099 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:54054 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63317 [200]: GET /js/custom.js
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:57415 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:54054 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:53099 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63317 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:57415 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:54054 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:58374 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:58374 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61612 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61612 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:58374 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59918 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61612 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59918 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59918 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:56755 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59795 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:56755 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61354 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:55739 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59795 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64356 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:58668 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:55739 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:58668 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64356 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61354 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:55739 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:62631 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:62631 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:56755 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:58668 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61354 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59795 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59292 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63977 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:59292 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:63977 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64793 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61502 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64793 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61502 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:62817 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:62631 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64793 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64766 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:62817 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64766 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61502 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:49623 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:49623 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:62817 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61576 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:49623 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:61576 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:53552 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64356 Closing
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:53552 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:62501 Accepted
+[Sun Jul 26 03:38:10 2026] 127.0.0.1:64766 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:53552 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:62501 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:61576 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:62501 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:58729 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49225 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:58729 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:58729 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49225 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49236 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49225 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49236 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:58513 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:64833 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:58513 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:64833 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49750 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:58513 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:64833 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49750 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:49750 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:59292 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:63977 Closing
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:55338 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:55338 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:55084 Accepted
+[Sun Jul 26 03:38:11 2026] 127.0.0.1:55084 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:38:12 2026] 127.0.0.1:55084 Closing
+[Sun Jul 26 03:38:27 2026] 127.0.0.1:49236 Closing
+[Sun Jul 26 03:38:27 2026] 127.0.0.1:55338 Closing
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:63360 Accepted
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:62454 Accepted
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:62454 [200]: GET /css/custom.css
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:63360 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:62454 Closing
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:63360 Closing
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:58431 Accepted
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:58431 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:38:29 2026] 127.0.0.1:58431 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62424 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62802 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62424 [200]: GET /
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62424 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62802 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62802 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57082 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:61793 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:58643 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:52653 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:61761 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:61793 [200]: GET /css/custom.css
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57082 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:58643 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:61793 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:55353 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57082 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:58643 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:55353 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:52653 [200]: GET /js/custom.js
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:61761 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:52653 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:61761 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:55353 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57022 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:50873 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57022 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:50873 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57022 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:49803 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:49803 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64764 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64230 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64764 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:50873 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64214 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64230 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:56944 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64214 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:59075 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:56944 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:49803 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54433 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:59075 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54433 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64214 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:51675 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:51675 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:56944 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62763 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:60888 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:62763 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64764 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54154 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:60888 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:64230 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54154 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54433 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:59511 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:59511 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:60888 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:53192 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:53192 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:59511 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57774 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57774 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54154 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:59075 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:57774 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:50602 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:53192 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:51679 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:50602 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:51679 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:51679 Closing
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54786 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:63783 Accepted
+[Sun Jul 26 03:39:39 2026] 127.0.0.1:54786 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:63747 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:63783 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:63747 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:50602 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:64913 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:54786 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:63783 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:63747 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:64913 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:64673 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:64913 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:55337 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:64673 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:49902 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:55337 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:49902 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:53647 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:53647 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:51675 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:55337 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:49902 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:53647 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:62763 Closing
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:53014 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:53014 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:64417 Accepted
+[Sun Jul 26 03:39:40 2026] 127.0.0.1:64417 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:39:41 2026] 127.0.0.1:64417 Closing
+[Sun Jul 26 03:39:41 2026] 127.0.0.1:53014 Closing
+[Sun Jul 26 03:39:56 2026] 127.0.0.1:64673 Closing
+[Sun Jul 26 03:41:02 2026] 127.0.0.1:54148 Accepted
+[Sun Jul 26 03:41:02 2026] 127.0.0.1:54148 [200]: GET /
+[Sun Jul 26 03:41:02 2026] 127.0.0.1:54148 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:51478 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:62543 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:51478 [200]: GET /
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:51478 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:62543 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:60890 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:62543 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:60313 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:56277 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:63093 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:62047 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:63093 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:56277 [200]: GET /css/custom.css
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:60890 [200]: GET /js/custom.js
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:62047 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:64151 Accepted
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:63093 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:56277 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:60313 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:64151 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:60890 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:62047 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:60313 Closing
+[Sun Jul 26 03:41:18 2026] 127.0.0.1:64151 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58680 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58680 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56073 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56073 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58680 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56073 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:57765 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:57765 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:55423 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58031 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:55423 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:51661 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56879 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61698 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58031 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56879 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:51661 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61698 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:57765 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61218 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61218 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56879 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:51661 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:55423 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60768 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:54442 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60768 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:63438 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:54442 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:63438 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58031 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60634 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60634 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61218 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:54442 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56489 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:64772 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56489 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:64772 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60768 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:64772 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:52033 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56489 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58529 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61698 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61096 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:52033 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58529 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:52033 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61096 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:58529 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:61096 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56759 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:49895 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56759 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56160 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56759 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:49895 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:51200 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:49895 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56160 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:51200 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60424 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:56160 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60424 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:60424 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:63817 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:59452 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:59452 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:63817 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:57048 Accepted
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:57048 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:51200 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:57048 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:63817 Closing
+[Sun Jul 26 03:41:19 2026] 127.0.0.1:63438 Closing
+[Sun Jul 26 03:41:20 2026] 127.0.0.1:60634 Closing
+[Sun Jul 26 03:41:20 2026] 127.0.0.1:49703 Accepted
+[Sun Jul 26 03:41:20 2026] 127.0.0.1:49703 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:41:20 2026] 127.0.0.1:50048 Accepted
+[Sun Jul 26 03:41:20 2026] 127.0.0.1:50048 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:41:20 2026] 127.0.0.1:50048 Closing
+[Sun Jul 26 03:41:35 2026] 127.0.0.1:59452 Closing
+[Sun Jul 26 03:41:35 2026] 127.0.0.1:49703 Closing
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:59542 Accepted
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:59542 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:59542 Closing
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:50105 Accepted
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:50105 [200]: GET /css/custom.css
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:50105 Closing
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:61068 Accepted
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:61068 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:42:33 2026] 127.0.0.1:61068 Closing
+[Sun Jul 26 03:43:23 2026] 127.0.0.1:63019 Accepted
+[Sun Jul 26 03:43:23 2026] 127.0.0.1:63019 [200]: GET /css/custom.css
+[Sun Jul 26 03:43:23 2026] 127.0.0.1:63019 Closing
+[Sun Jul 26 03:45:27 2026] 127.0.0.1:51140 Accepted
+[Sun Jul 26 03:45:27 2026] 127.0.0.1:50711 Accepted
+[Sun Jul 26 03:45:27 2026] 127.0.0.1:51140 [200]: GET /
+[Sun Jul 26 03:45:27 2026] 127.0.0.1:51140 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57380 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:56955 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60545 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50711 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57380 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:58179 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50711 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:56955 [200]: GET /css/custom.css
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:55779 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60545 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:58179 [200]: GET /js/custom.js
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57380 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:55779 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:56955 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:63160 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60545 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:58179 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:55779 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:63160 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:63160 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:49857 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:49857 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:54519 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:54519 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:49857 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:63767 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:63767 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:54519 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:63767 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:59611 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57381 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50820 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60014 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:59611 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57381 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:65346 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50820 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:52039 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60014 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:65346 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:52039 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50820 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60066 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60066 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:64362 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60014 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:64362 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:59611 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:64835 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57381 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:64835 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:52039 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:53121 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:65162 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:53121 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:65162 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:64835 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:53121 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:65162 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:53899 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62793 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:53899 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:56600 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:53899 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62793 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:56600 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62793 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62662 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62901 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:56600 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60342 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62662 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62901 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60342 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:65346 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62662 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:62901 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:58328 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:49543 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57450 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:49543 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:58328 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:57450 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:58328 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:60342 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50064 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:49543 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50064 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50453 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50064 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50453 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:50453 Closing
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:61791 Accepted
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:61791 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:45:28 2026] 127.0.0.1:61791 Closing
+[Sun Jul 26 03:45:29 2026] 127.0.0.1:60066 Closing
+[Sun Jul 26 03:45:29 2026] 127.0.0.1:64362 Closing
+[Sun Jul 26 03:45:29 2026] 127.0.0.1:62049 Accepted
+[Sun Jul 26 03:45:29 2026] 127.0.0.1:62049 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:45:29 2026] 127.0.0.1:62979 Accepted
+[Sun Jul 26 03:45:29 2026] 127.0.0.1:62979 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:45:30 2026] 127.0.0.1:62979 Closing
+[Sun Jul 26 03:45:30 2026] 127.0.0.1:62049 Closing
+[Sun Jul 26 03:45:45 2026] 127.0.0.1:57450 Closing
+[Sun Jul 26 03:46:31 2026] 127.0.0.1:60908 Accepted
+[Sun Jul 26 03:46:31 2026] 127.0.0.1:60908 [200]: GET /css/custom.css
+[Sun Jul 26 03:46:31 2026] 127.0.0.1:60908 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55687 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:57484 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55687 [200]: GET /
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55687 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:57484 [404]: GET /.well-known/appspecific/com.chrome.devtools.json - No such file or directory
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:57484 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:63304 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55792 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:58514 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:63304 [200]: GET /css/slides.min.css?41331
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55993 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55792 [200]: GET /css/custom.css
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51074 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51125 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51074 [200]: GET /assets/img/omi.jpg
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:63304 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55792 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:58514 [200]: GET /js/slides.min.js?41331
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55993 [200]: GET /js/custom.js
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51125 [200]: GET /assets/img/pods.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51074 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:55993 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:58514 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51125 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:64897 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:49836 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:64897 [200]: GET /assets/img/burger.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:49836 [200]: GET /assets/img/22.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:64897 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:49836 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:64651 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:64651 [200]: GET /assets/img/13.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:62173 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:62173 [200]: GET /assets/img/12.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:64651 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:62173 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:58815 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:61692 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:57340 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:58815 [200]: GET /assets/img/21.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51116 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:61692 [200]: GET /assets/img/16.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:51116 [200]: GET /assets/img/2.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:49435 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:60020 Accepted
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:57340 [200]: GET /assets/img/17.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:49435 [200]: GET /assets/img/5.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:60020 [200]: GET /assets/img/vitamin.png
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:61692 Closing
+[Sun Jul 26 03:48:20 2026] 127.0.0.1:58945 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:58945 [200]: GET /assets/img/Creative.png
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:58815 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:57340 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:58945 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:51897 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:60020 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:49435 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:51897 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:61395 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:61395 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:53008 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:59606 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:53008 [200]: GET /assets/img/background/img-10.jpg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:53008 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:59606 [200]: GET /assets/img/background/img-75.jpg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:50847 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:59606 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:50847 [200]: GET /assets/img/background/img-56.jpg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:50847 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55443 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55443 [200]: GET /assets/img/background/img-74.jpg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:61174 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55443 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:61174 [200]: GET /assets/svg/tool-photoshop.svg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:49173 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:61174 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:49173 [200]: GET /assets/svg/tool-indesign.svg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:63695 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:51116 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:49173 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:53992 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:63695 [200]: GET /assets/svg/tool-illustrator.svg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:53992 [200]: GET /assets/svg/tool-canva.svg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:63695 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:53992 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:57026 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55110 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55976 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:57026 [200]: GET /assets/img/citylife.jpg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55110 [200]: GET /assets/img/Screenshot%202025-05-01%20011052.png
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:64593 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55976 [200]: GET /assets/img/Screenshot%202025-05-01%20010842.png
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:64593 [200]: GET /assets/img/city.mp4
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55110 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:59798 Accepted
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:55976 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:59798 [200]: GET /assets/img/background/img-90.jpg
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:57026 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:59798 Closing
+[Sun Jul 26 03:48:21 2026] 127.0.0.1:51897 Closing
+[Sun Jul 26 03:48:22 2026] 127.0.0.1:61395 Closing
+[Sun Jul 26 03:48:22 2026] 127.0.0.1:63905 Accepted
+[Sun Jul 26 03:48:22 2026] 127.0.0.1:63905 [200]: GET /assets/img/White%20Black%20Green%20Elegant%20Anemone%20Welcome%20Wedding%20Sign%20Poster.mp4
+[Sun Jul 26 03:48:22 2026] 127.0.0.1:49723 Accepted
+[Sun Jul 26 03:48:22 2026] 127.0.0.1:49723 [200]: GET /assets/img/Untitled%20design.mp4
+[Sun Jul 26 03:48:22 2026] 127.0.0.1:49723 Closing
+[Sun Jul 26 03:48:22 2026] 127.0.0.1:63905 Closing
+[Sun Jul 26 03:48:37 2026] 127.0.0.1:64593 Closing
